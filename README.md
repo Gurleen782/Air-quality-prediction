@@ -72,37 +72,10 @@ Air-quality-prediction/
 └── requirements.txt
 ```
 
-## ⚙️ Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Gurleen782/Air-quality-prediction.git
-```
-
-2. Open the project folder:
-
-```bash
-cd Air-quality-prediction
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application:
-
-```bash
-streamlit run app.py
-```
-
 ## ⚠️ Limitations
 
 - The model is trained on historical Beijing air quality data and has not been validated for Indian locations.
 - PM2.5 estimation uses supplied environmental measurements; it does not forecast future pollution.
-- Anomaly detection uses a statistical IQR threshold.
 
 ## 👩‍💻 Author
 
