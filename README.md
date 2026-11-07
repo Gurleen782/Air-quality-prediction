@@ -4,7 +4,7 @@ A machine learning project that estimates PM2.5 concentration using environmenta
 
 ## 🚀 Live Demo
 
-[Open Air Quality Prediction App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Open Air Quality Prediction App](https://air-quality-prediction-ml-project.streamlit.app/)
 
 ## 📌 Project Overview
 
